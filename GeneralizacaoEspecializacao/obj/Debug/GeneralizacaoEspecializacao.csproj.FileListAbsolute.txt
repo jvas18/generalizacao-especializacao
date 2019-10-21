@@ -1,0 +1,7 @@
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\bin\Debug\GeneralizacaoEspecializacao.exe.config
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\bin\Debug\GeneralizacaoEspecializacao.exe
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\bin\Debug\GeneralizacaoEspecializacao.pdb
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\obj\Debug\GeneralizacaoEspecializacao.csprojAssemblyReference.cache
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\obj\Debug\GeneralizacaoEspecializacao.csproj.CoreCompileInputs.cache
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\obj\Debug\GeneralizacaoEspecializacao.exe
+C:\Users\jvict\source\repos\GeneralizacaoEspecializacao\GeneralizacaoEspecializacao\obj\Debug\GeneralizacaoEspecializacao.pdb
